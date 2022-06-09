@@ -1,0 +1,48 @@
+/* common start */
+body{
+font-family: 'Poppins', sans-serif;
+font-size:16px;
+font-weight: 400;
+color: #000;
+}
+/* common end */
+
+/* header start */
+header{
+background-color:#f0fff0;
+padding:7px 0;
+}
+.knav{
+
+}
+.logo{
+
+}
+.menu{
+
+}
+.menu ul li a{
+line-height: 24px;
+color:#000 !important;
+padding:0 24px !important;
+text-transform: capitalize;    
+}
+.menu ul li a:hover{
+    color:#fd511a !important;
+}
+.btn_custom{
+padding: 12px 28px;
+font-family: 'Roboto', sans-serif;
+line-height: 19px;;
+background: #21B573;
+border:0;
+border-radius: 33px;
+color:#fff;
+}
+
+.btn_custom:hover{
+    background-color:#fd511a ;
+    color:#fff;
+}
+/* header end */
+
